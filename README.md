@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomingming&show_icons=true&theme=radical)
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=appveyor&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=appveyor&logoColor=white"/>
