@@ -2,9 +2,9 @@
 <div align=center>*This Page is Bomin's Profile Page*</div>
 
 
-<div align=center>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomingming&show_icons=true&theme=radical)
-</div>
+
 
 ---
 
