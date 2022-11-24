@@ -1,5 +1,5 @@
-<div align=center>### Hi there 👋
-*This Page is Bomin's Profile Page*</div>
+<div align=center>### Hi there 👋</div>
+<div align=center>*This Page is Bomin's Profile Page*</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomingming&show_icons=true&theme=radical)
