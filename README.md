@@ -1,4 +1,5 @@
 ### Hi there 👋
+*This Page is Bomin's Profile Page*
 
 <!--
 **bomingming/bomingming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomingming&show_icons=true&theme=radical)
 
+---
 
+📖 I'm currently learning ...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-B1361E?style=flat"/>
