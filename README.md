@@ -1,8 +1,10 @@
-<div align=center>### Hi there 👋</div>
+<div align=center><h3> Hi there 👋 </h3></div>
 <div align=center>*This Page is Bomin's Profile Page*</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomingming&show_icons=true&theme=radical)
+<div align=center>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomingming&show_icons=true&theme=radical)
+</div>
 
 ---
 
