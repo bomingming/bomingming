@@ -1,5 +1,4 @@
 <div align=center><h3> Hi there 👋 </h3></div>
-<div align=center>*This Page is Bomin's Profile Page*</div>
 
 
 
